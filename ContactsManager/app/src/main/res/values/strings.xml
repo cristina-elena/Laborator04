@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name"> Contacts Manager </string>
+    <string name = "phone_error"> Phone Error </string>
+    <string name = "show_additional_fields"> show </string>
+    <string name = "hide_additional_fields"> hide </string>
+    <string name="name"> name</string>
+    <string name="phone_number">phone_number</string>
+    <string name="email">email</string>
+    <string name="job_title">job_title</string>
+    <string name="company">company</string>
+    <string name="website">website</string>
+    <string name="IM">IM</string>
+</resources>
